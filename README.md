@@ -1,6 +1,5 @@
 # PersistentAnimatedDynamicThemeFlutterGetX
-![Light Theme](https://github.com/RipplesCode/PersistentAnimatedDynamicThemeFlutterGetX
-/blob/master/Output/Screenshot_2020-12-28-18-10-24-25_14cbb0676ad48bf981e28fc89179de8e.jpg)
+
 # Donate
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:

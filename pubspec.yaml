@@ -1,0 +1,25 @@
+name: persistent_dyanamic_theme_animation_flutter_getx
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.1.4
+  animated_theme_switcher: ^2.0.1
+  get_storage: ^2.0.2
+  google_fonts: ^2.0.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - images/
+

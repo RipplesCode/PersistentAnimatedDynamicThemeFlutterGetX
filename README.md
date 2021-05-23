@@ -6,6 +6,10 @@
 >
 > - [PayPal](https://paypal.me/ripplescode)
 
+## Watch This Video
+[Watch here](https://youtu.be/hSL6rXnNdBQt)
+
+
 ## GetX Video Tutorials
 
 [Watch here](https://www.youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t)
